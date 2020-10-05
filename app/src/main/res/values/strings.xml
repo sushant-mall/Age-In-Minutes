@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Your Age in Minutes</string>
+    <string name="calculate_your_age">Calculate Your Age</string>
+    <string name="in">In</string>
+    <string name="minutes">Minutes</string>
+    <string name="select_your_dob">Select Your DOB</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="age_in_minutes">Age In Minutes</string>
+    <string name="created_by_sushant">Created by Sushant</string>
+</resources>
